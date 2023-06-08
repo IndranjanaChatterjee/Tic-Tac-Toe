@@ -3,7 +3,7 @@
 
 ## Working
 
-At first the first player must enter his/her choice of symbol for the game followed by the second player,thereafter the game starts and the players must click in the respective boxes to generate their choosen symbol for the game and then one of the player will win or the game will be draw accordingly.
+At first the first player must enter his/her choice of symbol for the game followed by the second player,thereafter the game starts and the players must click in the respective boxes to generate their choosen symbol for the game and then one of the player will win or the game will be draw accordingly.And clicking on **Restart** it will start from first :)
 
 ## Files used:
 1. HTML
