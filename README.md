@@ -16,5 +16,8 @@ At first the first player must enter his/her choice of symbol for the game follo
 3. [JS](https://github.com/IndranjanaChatterjee/Tic-Tac-Toe/blob/main/tic%20tac%20toe/script.js)
 
 ## Links to the examples
+1. For overview click on -> [Link](https://github.com/IndranjanaChatterjee/Tic-Tac-Toe/blob/main/tic%20tac%20toe/examples/overview.png)
+2. When a player wins -> [player 1](https://github.com/IndranjanaChatterjee/Tic-Tac-Toe/blob/main/tic%20tac%20toe/examples/player%201%20wins.png)  ,-> [player 2](https://github.com/IndranjanaChatterjee/Tic-Tac-Toe/blob/main/tic%20tac%20toe/examples/player%202%20win.png)
+3. Tie game click -> [Link](https://github.com/IndranjanaChatterjee/Tic-Tac-Toe/blob/main/tic%20tac%20toe/examples/tie%20game.png)
 
 
