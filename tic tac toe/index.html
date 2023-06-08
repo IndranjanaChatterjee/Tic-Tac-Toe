@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="parent">
+        <h1>Tic Tac Toe</h1>
+        <div class="get">
+            Enter the symbol the Player 1 wants:
+            <input type="text" placeholder="Enter" id="f">
+            <br>
+            Enter the symbol the Player 2 wants:
+            <input type="text" placeholder="Enter" id="s">
+        </div>
+        <div class="box">
+            <div id="first">
+                <div class="btn" id="1"></div>
+                <div class="btn" id="2"></div>
+                <div class="btn" id="3"></div>
+            </div>
+            <div id="second">
+                <div class="btn" id="4"></div>
+                <div class="btn" id="5"></div>
+                <div class="btn" id="6"></div>
+            </div>
+            <div id="third">
+                <div class="btn" id="7"></div>
+                <div class="btn" id="8"></div>
+                <div class="btn" id="9"></div>
+            </div>
+        </div>
+        <div class="reload"><button id="restart">Restart</button></div>
+        <div class="w">
+            <div id="win"></div>
+            <div class="gif"><img id="pic"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
